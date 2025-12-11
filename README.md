@@ -12,14 +12,13 @@ Self-taught by nature. Root-cause thinker by temperament. Driven primarily by cu
 
 ### Languages & Querying  
 🐍 Python  
-🧵 SQL (T-SQL)  
-🟧 HTML / CSS  
-🐚 Bash  
+🧵 SQL (T-SQL)   
 
 ### Data & Engineering  
 🛠️ Git & GitHub    
 🧮 Pandas, NumPy  
 📊 Power BI  
+📈 Excel
 🔄 ETL Pipelines  
 🔮 Prophet (forecasting)
 
