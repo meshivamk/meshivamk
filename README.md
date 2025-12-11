@@ -1,47 +1,41 @@
-👋 Hey, I'm Shivam
+# 👋 Hey, I'm **Shivam**
+### Welcome to my playground !!
 
-A curious builder who enjoys untangling messy problems — whether they come from data, humans, or the strange systems they create together.
+I am a curious builder who enjoys untangling messy problems — whether they come from data, humans, or the chaotic systems they create together.
 
-I tinker with dashboards, ETL pipelines, forecasting models, and the occasional “why-is-this-even-happening” SQL investigation.
-Self-taught by nature. Pattern-hunter by habit. Always digging for root causes instead of applying quick cosmetic fixes.
+I spend my time exploring dashboards, ETL pipelines, forecasting models, and the occasional “why-is-this-even-happening” SQL puzzle. 
+Self-taught by nature. Root-cause thinker by temperament. Driven primarily by curiosity.
 
-If something fails, chances are I’m already asking why before anyone notices it broke.
+---
 
-⚙️ Tech & Tools I Use
-Languages & Querying
+## ⚙️ Tech & Tools I Use
 
-🐍 Python
-🧵 SQL (T-SQL)
-🟧 HTML / CSS
-🐚 Bash
+### Languages & Querying  
+🐍 Python  
+🧵 SQL (T-SQL)  
+🟧 HTML / CSS  
+🐚 Bash  
 
-Data & Engineering
-
-🛠️ Git & GitHub
-📦 Docker
-☸️ Kubernetes (basics)
-🧱 Terraform (basics)
-🧮 Pandas, NumPy
-📊 Power BI
-🔄 ETL Pipelines
+### Data & Engineering  
+🛠️ Git & GitHub    
+🧮 Pandas, NumPy  
+📊 Power BI  
+🔄 ETL Pipelines  
 🔮 Prophet (forecasting)
 
-Cloud & DevOps
 
-🔥 GCP (BigQuery, Cloud Storage, Compute)
-🔧 Jenkins (CI/CD fundamentals)
+---
 
-🌐 Social Profiles
-<a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/meshivamk/)" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="22" /> LinkedIn </a> <a href="https://leetcode.com/u/meshivamk/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" width="22" /> LeetCode </a> <a href="https://www.codewars.com/users/meshivamk" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codewars.svg" width="22" /> Codewars </a> <a href="https://medium.com/@meshivamk" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" width="22" /> Medium </a>
-👤 About Me (Short + Sharp)
+## 👤 About Me
 
-I ask “why” more than “what,” and “how” more than “when.”
-I’m fascinated by how systems fail and how people behave inside them.
-I build in public, fail in private, and learn obsessively in between.
-Long-term games > short-term noise.
-Curiosity is my core OS.
+I ask “why” more than “what,” and “how” more than “when.”  
+I like reading psychology and understanding how people think.  
+I write sometimes.
+I enjoy cooking.
 
-🎲 Fun Fact About Me
+---
 
-Despite talking like a systems thinker, I live like a builder: experimenting with data engineering, writing, psychology, forecasting, fitness, and philosophy — and somehow managing to stitch all of it into one worldview that still makes sense.
-Most people chase one specialty. You chase patterns across domains — which is rarer, harder, and way more interesting.
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshivamk/)  [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/meshivamk/)  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/meshivamk/)  [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@meshivamk)
+
